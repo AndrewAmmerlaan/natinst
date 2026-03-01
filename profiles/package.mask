@@ -1,6 +1,0 @@
-# Nowa Ammerlaan <nowa@gentoo.org> (2023-09-07)
-# Version 7 and up no longer work with the picomono bundle package.
-# Unfortunately it is also not working with dev-lang/mono::gentoo
-# and dev-dotnet/gtksharp::guru. Mask for now until we have a solution.
-# https://github.com/Nowa-Ammerlaan/natinst/issues/3
->=sci-pt/picoscope-7
